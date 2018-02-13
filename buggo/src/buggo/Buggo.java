@@ -32,7 +32,7 @@ public class Buggo {
             k-=10;
             y-=10;
             j.setBackground(Color.BLACK);
-            p-=10;
+            p-=11;
             TimeUnit.MILLISECONDS.sleep(100);
             j.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         }
